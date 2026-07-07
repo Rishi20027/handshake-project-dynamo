@@ -1,1 +1,1 @@
-# handshake-project-dynamo
+# project-dynamo
